@@ -16,5 +16,5 @@ Hachemi
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow (pour ceux qui ont travaillé sur autre chose la semaine précédente)
-  - [ ] Créer un cheat sheet sur Gitflow (individuel)
+- [x] Découvrir Gitflow (pour ceux qui ont travaillé sur autre chose la semaine précédente)
+  - [x] Créer un cheat sheet sur Gitflow (individuel)
