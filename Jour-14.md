@@ -11,5 +11,5 @@ Hachemi
 
 ### Git avancé (Pour les plus avancés)
 
-- [ ] Comprendre l'utilité et savoir utiliser `git cherry-pick`
+- [x] Comprendre l'utilité et savoir utiliser `git cherry-pick`(ne pas le fait sur la meme branche ou l'on a copy)
 - [ ] Comprendre l'utilité et savoir utiliser `git bisect`
