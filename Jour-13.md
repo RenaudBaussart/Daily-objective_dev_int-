@@ -11,7 +11,7 @@ Hachemi
   - [x] Créer un cheat sheet sur Github CLI (individuel)
   - [x] Installation et connexion
   - [x] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
+  - [x] Intégration de `gh` dans son workflow
   - [x] Finalisation de son profile Github
 
 ### Gitflow
