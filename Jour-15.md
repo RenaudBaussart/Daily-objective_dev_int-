@@ -12,7 +12,7 @@ Hachemi
     - [x] Wireframe <!--- la creation de la structure sans avoir des designe dedans mais en ajoutant les texte -->
     - [x] Mockup <!--- le design est la mais on a pas encore le fonctionement de different bouton/lien -->
     - [x] Maquette <!--- le site est maquetter avec le design/les info/les lien -->
-- [ ] Choix d'un outil de maquettage
+- [x] Choix d'un outil de maquettage
 - [ ] Cadrer la demande client
 - [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
 
