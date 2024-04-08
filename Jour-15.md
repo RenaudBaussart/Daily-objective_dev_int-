@@ -13,8 +13,8 @@ Hachemi
     - [x] Mockup <!--- le design est la mais on a pas encore le fonctionement de different bouton/lien -->
     - [x] Maquette <!--- le site est maquetter avec le design/les info/les lien -->
 - [x] Choix d'un outil de maquettage
-- [ ] Cadrer la demande client
-- [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+- [~] Cadrer la demande client
+- [~] Découvrir les règles ergonomiques et d'expérience utilisateur
 
 ### HTML :
 
@@ -29,5 +29,5 @@ Hachemi
   - [x] Savoir commenter dans une page HTML <!--- -->
   - [x] Découvrir le principe de parents/enfants<!--- qu'elle balise englobe qui -->
   - [x] Découvrir le HTML5 sémantique<!--- metre un header/ plutot qu'un div -->
-- [ ] Comprendre la différence entre les liens relatifs et liens absolus
-- [ ] Créer sa première page HTML
+- [x] Comprendre la différence entre les liens relatifs et liens absolus
+- [x ] Créer sa première page HTML
