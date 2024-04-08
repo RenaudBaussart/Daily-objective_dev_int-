@@ -28,6 +28,6 @@ Hachemi
   - [x] Comprendre le fonctionnement des attributs en HTML
   - [x] Savoir commenter dans une page HTML <!--- -->
   - [ ] Découvrir le principe de parents/enfants
-  - [ ] Découvrir le HTML5 sémantique
+  - [x] Découvrir le HTML5 sémantique<!--- metre un header/ plutot qu'un div -->
 - [ ] Comprendre la différence entre les liens relatifs et liens absolus
 - [ ] Créer sa première page HTML
