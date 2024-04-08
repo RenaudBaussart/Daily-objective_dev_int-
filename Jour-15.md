@@ -8,10 +8,10 @@ Hachemi
 
 - [ ] Découvrir le maquettage d'interface d'une application
   - [ ] Comprendre la différence entre :
-    - [ ] Zoning
     - [ ] Wireframe
     - [ ] Mockup
     - [ ] Maquette
+    - [x] Zoning <!--- le faire de definire grossierement les emplacement des element -->
 - [ ] Choix d'un outil de maquettage
 - [ ] Cadrer la demande client
 - [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
