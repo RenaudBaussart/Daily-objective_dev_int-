@@ -22,7 +22,7 @@ Hachemi
 - [x] Découverte de la sainte trinité du web (HTML, CSS et JS)<!--- html=structure du site  css= formatage/ stylisé la strucuture js= avoir un environement qui est interactif -->
   - [x] Comprendre les différences et rôle de chacun
 - [ ] Découvrir les bases de HTML :
-  - [ ] Comprendre la structure de base HTML et la syntaxe
+  - [x] Comprendre la structure de base HTML et la syntaxe
   - [ ] Découvrir les principaux tags HTML et comprendre leur utilité
   - [ ] Comprendre le fonctionnement des attributs en HTML
   - [ ] Savoir commenter dans une page HTML
