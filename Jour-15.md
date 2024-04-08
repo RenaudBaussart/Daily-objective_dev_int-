@@ -7,7 +7,7 @@ Hachemi
 ### Maquettage
 
 - [ ] Découvrir le maquettage d'interface d'une application
-  - [ ] Comprendre la différence entre :
+  - [x] Comprendre la différence entre :
     - [x] Zoning <!--- le faire de definire grossierement les emplacement des element -->
     - [x] Wireframe <!--- la creation de la structure sans avoir des designe dedans mais en ajoutant les texte -->
     - [x] Mockup <!--- le design est la mais on a pas encore le fonctionement de different bouton/lien -->
