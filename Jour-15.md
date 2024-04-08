@@ -18,7 +18,7 @@ Hachemi
 
 ### HTML :
 
-- [ ] Savoir se documenter (MDN)
+- [X] Savoir se documenter (MDN)
 - [x] Découverte de la sainte trinité du web (HTML, CSS et JS)<!--- html=structure du site  css= formatage/ stylisé la strucuture js= avoir un environement qui est interactif -->
   - [x] Comprendre les différences et rôle de chacun
 - [x] Découvrir les bases de HTML :
