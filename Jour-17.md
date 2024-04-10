@@ -23,7 +23,7 @@ Benjamin
   Les IDs: sont des identificateurs uniques attribués à des éléments HTML pour les cibler de manière spécifique en CSS
   selecteur universel: * est le selecteur universel
   -->
-  - [ ] Savoir appliquer une mise en forme sur les éléments
-  - [ ] Comprendre le box model
+  - [x] Savoir appliquer une mise en forme sur les éléments
   - [ ] Découvrir le positionnement en CSS
+  - [x] Comprendre le box model
   - [ ] Comprendre la spécificité en CSS
