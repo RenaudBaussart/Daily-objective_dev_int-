@@ -30,4 +30,4 @@ Hachemi
   - [x] Découvrir le principe de parents/enfants<!--- qu'elle balise englobe qui -->
   - [x] Découvrir le HTML5 sémantique<!--- metre un header/ plutot qu'un div -->
 - [x] Comprendre la différence entre les liens relatifs et liens absolus
-- [x ] Créer sa première page HTML
+- [x] Créer sa première page HTML
