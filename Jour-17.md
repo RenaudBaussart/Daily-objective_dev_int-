@@ -24,6 +24,6 @@ Benjamin
   selecteur universel: * est le selecteur universel
   -->
   - [x] Savoir appliquer une mise en forme sur les éléments
-  - [ ] Découvrir le positionnement en CSS
   - [x] Comprendre le box model
+  - [x] Découvrir le positionnement en CSS
   - [ ] Comprendre la spécificité en CSS
