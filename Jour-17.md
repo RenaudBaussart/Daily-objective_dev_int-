@@ -26,4 +26,4 @@ Benjamin
   - [x] Savoir appliquer une mise en forme sur les éléments
   - [x] Comprendre le box model
   - [x] Découvrir le positionnement en CSS
-  - [ ] Comprendre la spécificité en CSS
+  - [x] Comprendre la spécificité en CSS
