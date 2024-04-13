@@ -7,7 +7,7 @@ Benjamin
 ### CSS
 
 - [x] Comprendre le fonctionnement de CSS Grid
-  - [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
+  - [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
 - [ ] Découverte des icones vectorielles (https://fontawesome.com/)
 
 ### Rattrapage
