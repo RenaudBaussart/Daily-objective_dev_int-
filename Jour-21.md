@@ -12,8 +12,8 @@ Hachemi
 
 ### Brief
 
-- [ ] Commencer à travailler sur les wireframes du brief CV
+- [x] Commencer à travailler sur les wireframes du brief CV
   - [ ] Pages mobiles
   - [ ] Pages tablettes
-  - [ ] Pages Desktop
+  - [x] Pages Desktop
 
