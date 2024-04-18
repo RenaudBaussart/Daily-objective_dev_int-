@@ -6,7 +6,7 @@ Hachemi
 
 ### CSS
 
-- [ ] Revoir le fonctionnement de CSS Grid
+- [x] Revoir le fonctionnement de CSS Grid
   - [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
 
 
