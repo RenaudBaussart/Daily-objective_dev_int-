@@ -6,11 +6,11 @@ Benjamin
 
 ### CSS 
 
-- [ ] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
 - [ ] Faire le parcours [CSS Diner](https://flukeout.github.io/)
 - [x] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
 - [x] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
 - [x] Savoir appliquer des bordures, ombres et backgrounds
+- [x] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
 
 #### Optionnel :
 
