@@ -13,7 +13,7 @@ Hachemi
 ### Brief
 
 - [x] Commencer à travailler sur les wireframes du brief CV
-  - [ ] Pages mobiles
-  - [ ] Pages tablettes
+  - [x] Pages mobiles
+  - [x] Pages tablettes
   - [x] Pages Desktop
 
