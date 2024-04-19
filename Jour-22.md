@@ -10,7 +10,7 @@ Hachemi
 
 ### Atelier
 
-- [ ] Préparer l'atelier d'initiation aux prescripteurs
+- [x] Préparer l'atelier d'initiation aux prescripteurs
 
 ### Sass
 
