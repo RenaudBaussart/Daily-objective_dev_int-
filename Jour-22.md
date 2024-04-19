@@ -6,7 +6,7 @@ Hachemi
 
 ### Brief 
 
-- [ ] Finaliser les wireframes de son brief
+- [x] Finaliser les wireframes de son brief
 
 ### Atelier
 
