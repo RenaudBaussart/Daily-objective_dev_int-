@@ -12,5 +12,5 @@ Benjamin
 
 ### Rattrapage
 
-- [ ] Finaliser les objectifs manquants des jours précédents
-- [ ] Revoir les notions pas/mal comprises
+- [x] Finaliser les objectifs manquants des jours précédents
+- [x] Revoir les notions pas/mal comprises
