@@ -18,5 +18,5 @@ Benjamin
 
 ### Brief
 
-- [ ] Travailler sur son brief CV
+- [x] Travailler sur son brief CV
 
