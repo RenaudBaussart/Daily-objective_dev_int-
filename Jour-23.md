@@ -13,7 +13,7 @@ Benjamin
 - [x] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS
 - [x] Découvrir l'architecture `7-1` :
 - [x] Comprendre l'intérêt de cette architecture
-- [ ] Construire son propre boilerplate SASS 7-1
+- [x] Construire son propre boilerplate SASS 7-1
 
 
 ### Brief
